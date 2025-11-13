@@ -1,0 +1,25 @@
+name: Android Build (optional)
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Install Android SDK components
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          yes | sdkmanager --licenses || true
+      - name: Build (gradle)
+        run: ./gradlew assembleDebug --no-daemon
+        env:
+          JAVA_HOME: ${{ runner.java.home }}
