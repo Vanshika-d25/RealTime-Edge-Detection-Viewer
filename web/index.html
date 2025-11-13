@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>RT Edge Viewer - Web</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 8px; }
+    #container { position: relative; display: inline-block; }
+    #overlay { position: absolute; left: 8px; top: 8px; color: #fff; background: rgba(0,0,0,0.4); padding: 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h2>Real-Time Edge Detection - Web Viewer (Sample)</h2>
+  <div id="container">
+    <img id="frame" src="sample.jpg" alt="sample frame" />
+    <div id="overlay">FPS: <span id="fps">0</span><br/>Resolution: <span id="res">0x0</span></div>
+  </div>
+  <script src="dist/main.js"></script>
+</body>
+</html>
