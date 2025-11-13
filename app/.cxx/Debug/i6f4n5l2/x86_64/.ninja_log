@@ -1,0 +1,3 @@
+# ninja log v5
+1	1665	7816252215761950	jni_build/CMakeFiles/edge_native.dir/edge_detector.cpp.o	15160316a5f0dbbc
+1670	2285	7816252221326697	../../../../build/intermediates/cxx/Debug/i6f4n5l2/obj/x86_64/libedge_native.so	665333f0ccb7b360

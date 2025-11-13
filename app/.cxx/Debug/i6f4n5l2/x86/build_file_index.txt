@@ -1,0 +1,2 @@
+C:\Users\aates\OneDrive\Desktop\Real-Time Edge Detection Viewer\app\CMakeLists.txt
+C:\Users\aates\OneDrive\Desktop\Real-Time Edge Detection Viewer\jni\CMakeLists.txt

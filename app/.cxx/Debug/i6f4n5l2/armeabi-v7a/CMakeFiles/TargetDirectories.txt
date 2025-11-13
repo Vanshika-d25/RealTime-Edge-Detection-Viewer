@@ -1,0 +1,5 @@
+C:/Users/aates/OneDrive/Desktop/Real-Time Edge Detection Viewer/app/.cxx/Debug/i6f4n5l2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/aates/OneDrive/Desktop/Real-Time Edge Detection Viewer/app/.cxx/Debug/i6f4n5l2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/aates/OneDrive/Desktop/Real-Time Edge Detection Viewer/app/.cxx/Debug/i6f4n5l2/armeabi-v7a/jni_build/CMakeFiles/edge_native.dir
+C:/Users/aates/OneDrive/Desktop/Real-Time Edge Detection Viewer/app/.cxx/Debug/i6f4n5l2/armeabi-v7a/jni_build/CMakeFiles/edit_cache.dir
+C:/Users/aates/OneDrive/Desktop/Real-Time Edge Detection Viewer/app/.cxx/Debug/i6f4n5l2/armeabi-v7a/jni_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/aates/OneDrive/Desktop/Real-Time Edge Detection Viewer/app/.cxx/Debug/i6f4n5l2/arm64-v8a",
+  "command": "C:\\Android\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Android/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dedge_native_EXPORTS -isystem \"C:/Users/aates/OneDrive/Desktop/Real-Time Edge Detection Viewer/third_party/OpenCV-android/OpenCV-android-sdk/sdk/native/jni/include\" -std=c++17 -g  -fno-limit-debug-info -fPIC -o jni_build\\CMakeFiles\\edge_native.dir\\edge_detector.cpp.o -c \"C:\\Users\\aates\\OneDrive\\Desktop\\Real-Time Edge Detection Viewer\\jni\\edge_detector.cpp\"",
+  "file": "C:\\Users\\aates\\OneDrive\\Desktop\\Real-Time Edge Detection Viewer\\jni\\edge_detector.cpp"
+}
+]

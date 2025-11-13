@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\aates\\OneDrive\\Desktop\\Real-Time Edge Detection Viewer\\app\\CMakeLists.txt",
+    "C:\\Users\\aates\\OneDrive\\Desktop\\Real-Time Edge Detection Viewer\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Android\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\aates\\OneDrive\\Desktop\\Real-Time Edge Detection Viewer\\app\\.cxx\\Debug\\i6f4n5l2\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Android\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\aates\\OneDrive\\Desktop\\Real-Time Edge Detection Viewer\\app\\.cxx\\Debug\\i6f4n5l2\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "edge_native::@2511270ea1f4b4eca1d0": {
+      "artifactName": "edge_native",
+      "abi": "x86",
+      "output": "C:\\Users\\aates\\OneDrive\\Desktop\\Real-Time Edge Detection Viewer\\app\\build\\intermediates\\cxx\\Debug\\i6f4n5l2\\obj\\x86\\libedge_native.so",
+      "runtimeFiles": []
+    }
+  }
+}
