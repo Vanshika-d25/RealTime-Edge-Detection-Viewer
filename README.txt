@@ -177,8 +177,7 @@ Toggle between processing modes
 
 FPS overlay shows real-time performance
 
-📷 Screenshots
-"C:\Users\DELL\OneDrive\Desktop\s.jpg"
+
 
 This project was built as part of an Android + OpenCV + OpenGL + Web R&D Intern Assessment, showcasing:
 
@@ -195,3 +194,4 @@ Clean architecture design
 🙌 Author
 
 Vanshika Dixit
+
